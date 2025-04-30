@@ -1,9 +1,9 @@
 import React, { useRef } from "react";
 
 // Import your songs
-import song1 from "../assets/song/song1.mp3";
+import song1 from "../assets/song/song3.mp3";
 import song2 from "../assets/song/song2.mp3";
-import song3 from "../assets/song/song3.mp3";
+import song3 from "../assets/song/song1.mp3";
 
 const MusicCard = () => {
   const audioRefs = useRef([]);
